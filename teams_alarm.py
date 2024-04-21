@@ -3,7 +3,7 @@ import time
 import pymsteams
 
 # MS Teams Webhook URL
-WEBHOOK_URL = "https://hanwha.webhook.office.com/webhookb2/20acc195-0bad-4658-b033-7f921e0ed5ef@0f7b4e1c-344e-4923-aaf0-6fca9e6700c8/IncomingWebhook/8ebcccd3229c405c81fcce75dffd71e9/208b10a3-c124-4555-b31b-ae3356afc0fc"
+WEBHOOK_URL = "blahblah"
 
 # 타임아웃 시간 (초)
 TIMEOUT = 10
